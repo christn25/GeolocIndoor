@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Geoloc\' Indoor</string>
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+
+    <string name="start_updates">Start Géoloc</string>
+    <string name="stop_updates">Stop Géoloc</string>
+    <string name="location_updates_message">Localisation mise à jour</string>
+    <string name="title_activity_maps">Maps</string>
+</resources>
